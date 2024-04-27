@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlvirgel
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning Tailwindcss, Vuejs, and Laravel
+- 👀 I’m interested in front-end and back-end
+- 🌱 I’m currently learning Tailwindcss, Vuejs, Flutter, NodeJs, and Laravel
 
 
 <!---
